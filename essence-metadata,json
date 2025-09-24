@@ -1,0 +1,10 @@
+{
+  "name": "Essence",
+  "symbol": "ESS",
+  "description": "Essence is the core currency of the game Everbloom, used for trading, crafting, and stabilizing ecosystems.",
+  "image": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/essence.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Currency" },
+    { "trait_type": "Game", "value": "Everbloom" }
+  ]
+}
