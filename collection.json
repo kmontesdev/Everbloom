@@ -7,7 +7,7 @@
     "properties": {
       "files": [
         {
-          "uri": "collection.png",
+          "uri": "https://raw.githubusercontent.com/kmontesdev/everbloom/main/collection.png",
           "type": "image/png"
         }
       ],
