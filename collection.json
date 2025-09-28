@@ -1,0 +1,17 @@
+{
+    "name": "Everbloom Singularity Collection",
+    "symbol": "ES",
+    "description": "Collection of Everbloom Singularity NFTs",
+    "image": "collection.png",
+    "seller_fee_basis_points": 500,
+    "properties": {
+      "files": [
+        {
+          "uri": "collection.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
+  
